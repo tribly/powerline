@@ -99,7 +99,7 @@
 
 		"powerline.segments.common.vcs.branch": {
 			"args": {
-                    "status_colors": true
+                "status_colors": true
 			}
 		},
 
