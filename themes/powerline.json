@@ -97,6 +97,12 @@
 			}
 		},
 
+		"powerline.segments.common.vcs.branch": {
+			"args": {
+                    "status_colors": true
+			}
+		},
+
 		"powerline.segments.vim.mode": {
 			"args": {
 				"override": {
